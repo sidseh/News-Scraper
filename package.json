@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidseh/News-Scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidseh/News-Scraper/issues"
+  },
+  "homepage": "https://github.com/sidseh/News-Scraper#readme"
+}
