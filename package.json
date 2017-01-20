@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gcbest/ScrapedNews.git"
+    "url": "git+https://github.com/sidseh/News-Scraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gcbest/ScrapedNews/issues"
+    "url": "https://github.com/sidseh/News-Scraper/issues"
   },
-  "homepage": "https://github.com/gcbest/ScrapedNews#readme",
+  "homepage": "https://github.com/sidseh/News-Scraper#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
     "express": "^4.14.0",
